@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1d583cb02927ab45245eea7ae1e52ab05af2a98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/.android/build-cache/d0e50c95333857802d26bd000b7241f6f7f5a08b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e88e6609df4781b4f4436ad1e5333864eb4023c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/f141410f1bfdb25c1a92a8decc7559e503460f7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_50c811fd65489518117de7038d0b9625fd2fb5f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_0ac39a2b3a3e82ae470227e05199cd3c4b034c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/f6039665086510b10fd77ac234f24ab964bc0c98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_3645398f000cb0d7f5829b8e51c5d7900e5ca5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ea82860cc50669dae0f01845976c40bb448b422b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/d0e50c95333857802d26bd000b7241f6f7f5a08b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_0e88e6609df4781b4f4436ad1e5333864eb4023c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/fcd8ce14301c45144cab20aba664829b5663f9b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_38ae45cfe8b2bef7a431175f5dcf19728b74beeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/d5b7a33fc53cd065968c90c6270ea0ef683d7d5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_432a653ce08a426c3ec91b4da2ee7a346f71063a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_542c4f6840a3072f6dea8ef0bb256225a359d311.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/Android/Projects/XYZ-Reader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_dbe13bfff71777b1a131928bcd7c53e075a5d669/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/.android/build-cache/d5b7a33fc53cd065968c90c6270ea0ef683d7d5a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_432a653ce08a426c3ec91b4da2ee7a346f71063a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/Android/Projects/XYZ-Reader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/volley_dbe13bfff71777b1a131928bcd7c53e075a5d669.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_542c4f6840a3072f6dea8ef0bb256225a359d311/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_39fe35163a2295b8717805f0c198ed98796b3011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/a79da2b145f696724f5389c266310370fedd4f1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_d511a998e94b6cfdc2f23eda9ba10832399470bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_0ac39a2b3a3e82ae470227e05199cd3c4b034c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/.android/build-cache/a79da2b145f696724f5389c266310370fedd4f1b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d511a998e94b6cfdc2f23eda9ba10832399470bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/3a8b24328841fb62ab9a1f14cc81bc4b6357300f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_4dc9cc94ec445dec6fb273dd3e53bf32c27fd339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/add8e64c3fa21887c53d42b51e39b59558ad7f5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_eb1d0121d719bf26ab3117e174560e693f75ce22.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/.android/build-cache/59929196610805c420df99b1356238a724a51de4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa4d883b9c09b286129eb49f7cb0452a5fe232b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/59929196610805c420df99b1356238a724a51de4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_aa4d883b9c09b286129eb49f7cb0452a5fe232b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/4aed0616e3ef291453ee23313f3f8be25dbb2fdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_1b406ecd1501cfde9cca17b296912b9e9fa4aac5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/.android/build-cache/fcd8ce14301c45144cab20aba664829b5663f9b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38ae45cfe8b2bef7a431175f5dcf19728b74beeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/6050923e2ecfbad2123891d7694a49f888e38937/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_b59f19a92c3c715b0667785e5f9e2c505a56fceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/886b895abad8b358f0e826cff770d077b2c7c0c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_1ad83ae62fd85a5a73602776eaafa9abf1aa38bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23cb9e0187a90d4094021618c3772a3eec1b7f8c">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_322e0d165815105839d5280218191c364b5cb601/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tait/.android/build-cache/9378b6907659c8a7e31388ca48ef25d72ef63052/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8626414aedc55e6ed1f1d53abfe7e6d7a062c9b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/dd6fb07671c1325f90bc9a7aa2487532171d3045/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_77ee53cf5f2091c4724928e58b4ab54aef8cbde8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tait/.android/build-cache/9378b6907659c8a7e31388ca48ef25d72ef63052/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/pre-dexed/debug/classes_8626414aedc55e6ed1f1d53abfe7e6d7a062c9b3.jar" />
+    </item>
+
+</items>

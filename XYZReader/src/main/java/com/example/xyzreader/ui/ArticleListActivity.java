@@ -8,6 +8,7 @@ import android.content.IntentFilter;
 import android.content.Loader;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.RecyclerView;
@@ -58,7 +59,7 @@ public class ArticleListActivity extends ActionBarActivity implements
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
 
 
-        final View toolbarContainerView = findViewById(R.id.toolbar_container);
+        CollapsingToolbarLayout toolbarContainerView = (CollapsingToolbarLayout) findViewById(R.id.toolbar_container);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         getLoaderManager().initLoader(0, null, this);

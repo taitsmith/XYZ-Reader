@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

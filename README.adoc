@@ -1,3 +1,5 @@
 = XYZ Reader Starter Code
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree. Or it used to, now it's a reworking of that code to make it material design friendly.
+
+Material Design.

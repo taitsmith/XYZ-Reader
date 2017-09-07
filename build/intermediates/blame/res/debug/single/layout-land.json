@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/XYZReader/build/intermediates/res/merged/debug/layout-land/list_item_article.xml",
+        "source": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/layout-land/list_item_article.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/XYZReader/build/intermediates/res/merged/debug/layout-land/fragment_article_detail.xml",
+        "source": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/layout-land/fragment_article_detail.xml"
+    }
+]

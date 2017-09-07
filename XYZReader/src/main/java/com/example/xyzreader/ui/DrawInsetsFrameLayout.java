@@ -25,12 +25,11 @@ import android.os.Build;
 import android.support.design.widget.CoordinatorLayout;
 import android.util.AttributeSet;
 import android.view.WindowInsets;
-import android.widget.FrameLayout;
 
 import com.example.xyzreader.R;
 
 
-public class DrawInsetsFrameLayout extends FrameLayout {
+public class DrawInsetsFrameLayout extends CoordinatorLayout {
     private Drawable mInsetBackground;
     private Drawable mTopInsetBackground;
     private Drawable mBottomInsetBackground;

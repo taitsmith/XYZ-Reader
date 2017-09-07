@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }

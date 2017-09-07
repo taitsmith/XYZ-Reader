@@ -1,11 +1,27 @@
 [
     {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
         "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",

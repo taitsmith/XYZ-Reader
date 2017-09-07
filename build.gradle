@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-=======
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
 
->>>>>>> 3f3b77cae8e7b6d5205a5ecacf6e1be1873f49bc
-buildscript {
-    repositories {
-        jcenter()
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.3'
-<<<<<<< HEAD
-    }
-}
 apply plugin: 'com.android.application'
 
 repositories {
@@ -40,25 +27,3 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile files('libs/volley.jar')
 }
-=======
-
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
-    }
-}
-
-allprojects {
-    repositories {
-        jcenter()
-    }
-
-    ext {
-        androidSupportVersion = "25.3.1"
-
-    }
-}
-
-task clean(type: Delete) {
-    delete rootProject.buildDir
-}
->>>>>>> 3f3b77cae8e7b6d5205a5ecacf6e1be1873f49bc

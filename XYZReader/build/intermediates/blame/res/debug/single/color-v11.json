@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

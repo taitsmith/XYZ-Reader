@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/tait/.android/build-cache/9378b6907659c8a7e31388ca48ef25d72ef63052/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/tait/.android/build-cache/9378b6907659c8a7e31388ca48ef25d72ef63052/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/tait/.android/build-cache/9378b6907659c8a7e31388ca48ef25d72ef63052/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/tait/.android/build-cache/fd82d582b06ae6a34a4db72e5a7e1edef0e0de75/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/tait/.android/build-cache/6781bbaed0dde09e85da718d06d6353ef8389340/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/tait/.android/build-cache/fd82d582b06ae6a34a4db72e5a7e1edef0e0de75/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/tait/Android/Projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/tait/.android/build-cache/9378b6907659c8a7e31388ca48ef25d72ef63052/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/tait/.android/build-cache/fd82d582b06ae6a34a4db72e5a7e1edef0e0de75/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/tait/.android/build-cache/fd82d582b06ae6a34a4db72e5a7e1edef0e0de75/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/home/tait/AndroidStudioProjects/Material/xyz-reader-starter-code-master/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    }
+]

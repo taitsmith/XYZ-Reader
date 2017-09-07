@@ -211,8 +211,8 @@
                     "startLine": 19,
                     "startColumn": 4,
                     "startOffset": 1223,
-                    "endColumn": 54,
-                    "endOffset": 1273
+                    "endColumn": 56,
+                    "endOffset": 1275
                 },
                 "from": {
                     "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
@@ -222,57 +222,33 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1278,
-                    "endColumn": 56,
-                    "endOffset": 1330
+                    "startOffset": 1280,
+                    "endColumn": 41,
+                    "endOffset": 1317
                 },
                 "from": {
-                    "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
+                    "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1335,
-                    "endColumn": 51,
-                    "endOffset": 1382
+                    "startOffset": 1322,
+                    "endColumn": 94,
+                    "endOffset": 1412
                 },
                 "from": {
-                    "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
+                    "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/dimens.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1387,
-                    "endColumn": 41,
-                    "endOffset": 1424
-                },
-                "from": {
-                    "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/dimens.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1429,
-                    "endColumn": 94,
-                    "endOffset": 1519
-                },
-                "from": {
-                    "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/dimens.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1524,
+                    "startOffset": 1417,
                     "endColumn": 62,
-                    "endOffset": 1582
+                    "endOffset": 1475
                 },
                 "from": {
                     "file": "/home/tait/.android/build-cache/fd82d582b06ae6a34a4db72e5a7e1edef0e0de75/output/res/values-sw600dp-v13/values-sw600dp-v13.xml"
@@ -280,11 +256,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1587,
+                    "startOffset": 1480,
                     "endColumn": 49,
-                    "endOffset": 1632
+                    "endOffset": 1525
                 },
                 "from": {
                     "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
@@ -292,12 +268,12 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1637,
-                    "endLine": 38,
+                    "startOffset": 1530,
+                    "endLine": 37,
                     "endColumn": 12,
-                    "endOffset": 2475
+                    "endOffset": 2419
                 },
                 "from": {
                     "file": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/values-sw600dp/styles.xml"
@@ -305,12 +281,12 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2480,
-                    "endLine": 42,
+                    "startOffset": 2424,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 2657
+                    "endOffset": 2601
                 },
                 "from": {
                     "file": "/home/tait/.android/build-cache/fd82d582b06ae6a34a4db72e5a7e1edef0e0de75/output/res/values-sw600dp-v13/values-sw600dp-v13.xml"

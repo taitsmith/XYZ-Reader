@@ -37,10 +37,8 @@ public class ArticleDetailFragment extends Fragment implements
     private Cursor mCursor;
     private long mItemId;
     private View mRootView;
-    private int mMutedColor = 0xFF333333;
     private CoordinatorLayout mDrawInsetsFrameLayout;
 
-    private int mTopInset;
     private View mPhotoContainerView;
     private ImageView mPhotoView;
     private Toolbar mToolbar;
@@ -121,7 +119,6 @@ public class ArticleDetailFragment extends Fragment implements
         if (mRootView == null) {
             return;
         }
-        mProgressBar.setVisibility(View.VISIBLE);
 
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
 
@@ -129,7 +126,6 @@ public class ArticleDetailFragment extends Fragment implements
 
         if (mCursor != null) {
             mRootView.setAlpha(0);
-            mRootView.setVisibility(View.VISIBLE);
             mRootView.animate().alpha(1);
             mToolbar.setTitle(mCursor.getString(ArticleLoader.Query.TITLE));
             mToolbar.setSubtitle(mCursor.getString(ArticleLoader.Query.AUTHOR));
@@ -137,10 +133,7 @@ public class ArticleDetailFragment extends Fragment implements
             Picasso.with(getActivityCast()).load(mCursor.getString(ArticleLoader.Query.PHOTO_URL))
                     .into(mPhotoView);
         } else {
-            mRootView.setVisibility(View.GONE);
-            mToolbar.setTitle("N/A");
-            mToolbar.setSubtitle("N/A");
-            bodyView.setText("N/A");
+            mProgressBar.setVisibility(View.VISIBLE);
         }
     }
 

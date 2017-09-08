@@ -52,7 +52,7 @@ MERGED from [com.android.support:support-compat:25.3.1] /home/tait/.android/buil
 	android:icon
 		ADDED from /home/tait/AndroidStudioProjects/Material/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from /home/tait/AndroidStudioProjects/Material/XYZReader/src/main/AndroidManifest.xml:15:9-59
+		ADDED from /home/tait/AndroidStudioProjects/Material/XYZReader/src/main/AndroidManifest.xml:15:9-46
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from /home/tait/AndroidStudioProjects/Material/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label

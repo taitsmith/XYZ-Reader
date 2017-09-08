@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:background="@color/photo_placeholder"
         android:theme="@style/Theme.AppCompat.NoActionBar"
-        app:elevation="4dp">
+        android:elevation="4dp">
 
         <!--suppress AndroidLintContentDescription -->
         <android.support.design.widget.CollapsingToolbarLayout

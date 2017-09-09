@@ -40,12 +40,12 @@
         "source": "/home/tait/AndroidStudioProjects/Material/XYZReader/src/main/res/layout/fragment_article_detail.xml"
     },
     {
-        "merged": "/home/tait/AndroidStudioProjects/Material/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "/home/tait/AndroidStudioProjects/Material/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/tait/AndroidStudioProjects/Material/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/tait/.android/build-cache/ec58be1c36395c47a2325a2e32284ef6d1d90258/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/tait/AndroidStudioProjects/Material/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
